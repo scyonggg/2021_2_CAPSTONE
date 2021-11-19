@@ -17,7 +17,7 @@ Capstone Design Project in 2021 2nd Semester
 |Baseline 코드 탐색|2021년 10월 26일 → 2021년 11월 1일||
 |제안서 제출|2021년 11월 5일 오전 9:00||
 |최종 발표|2021년 12월 13일|**Online in English**|
-|최종 보고서 제출|2021년 12월 20일 오전 9:00||
+|최종 보고서 제출|2021년 12월 20일 오전 9:00|**Korean or English**|
 
 # Image Classification
 
