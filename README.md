@@ -16,7 +16,7 @@ Capstone Design Project in 2021 2nd Semester
 |:---:|:---:|:---:|
 |Baseline 코드 탐색|2021년 10월 26일 → 2021년 11월 1일||
 |제안서 제출|2021년 11월 5일 오전 9:00||
-|최종 발표|2021년 12월 13일|**In English**|
+|최종 발표|2021년 12월 13일|**Online in English**|
 |최종 보고서 제출|2021년 12월 20일 오전 9:00||
 
 # Image Classification
@@ -49,10 +49,12 @@ Capstone Design Project in 2021 2nd Semester
         - 150 epoch - 0.01
         - 225 epoch - 0.001
     - Weight Initialization : He
+
+- Block Architecture
     - Bottleneck layer
         - BN-ReLU-1x1Conv(4k)-BN-ReLU-3x3Conv(k)
     - Compression
-        - $\theta$=0.5
+        - θ =0.5
     - **Implementation Detail**
         - 3 Dense blocks, equal number of layers
         - Before first dense block,
