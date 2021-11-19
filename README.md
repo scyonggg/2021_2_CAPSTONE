@@ -12,13 +12,16 @@ Capstone Design Project in 2021 2nd Semester
 
 # 계획
 
-[2021-2 Capstone Design Calender](https://www.notion.so/db3dd6df4a5a433790ffc5eb872c5f5c?v=a036f4854456478ab7db0793fdb4f8e3)
-
+|**이름**|**날짜**|**비고**|
+|:---:|:---:|:---:|
+|Baseline 코드 탐색|2021년 10월 26일 → 2021년 11월 1일||
+|제안서 제출|2021년 11월 5일 오전 9:00||
+|최종 발표|2021년 12월 13일|**In English**|
+|최종 보고서 제출|2021년 12월 20일 오전 9:00||
 
 # Image Classification
 
-- Metric 성능 - Accuracy - 40%
-    - 높은 accuracy로 줄세워서 하지는 않을 것 (뭔 말?)
+- Accuracy - 40%
 - 신규성 - 30%
     - 제공된 Baseline 외에 추가로 시도한 것들
     - 성능 개선
