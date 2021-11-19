@@ -58,13 +58,13 @@ Capstone Design Project in 2021 2nd Semester
         - Before first dense block,
 
 ---
-## CIFAR Dataset Explanation
+# CIFAR Dataset Explanation
 ![Untitled](README/CIFAR.png)
 
-## DenseNet Training Condition
+# DenseNet Training Condition
 ![Untitled](README/DenseNet_Training.png)
         
-## PyramidNet Block Architecture
+# PyramidNet Block Architecture
 ![Untitled](README/PyramidNet_Block.png)
         
     
