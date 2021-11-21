@@ -1,5 +1,7 @@
 # 2021-2 CAPSTONE
 Capstone Design Project in 2021 2nd Semester
+
+
 # 주의사항
 
 - 개인 GPU에서 수행하고 .ipynb  파일로 제출해도, colab에서 검증될 수 있도록 주의
@@ -21,6 +23,7 @@ Capstone Design Project in 2021 2nd Semester
 
 # Image Classification
 
+testeststst
 - Accuracy - 40%
 - 신규성 - 30%
     - 제공된 Baseline 외에 추가로 시도한 것들
