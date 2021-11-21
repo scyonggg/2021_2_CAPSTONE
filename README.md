@@ -21,6 +21,7 @@ Capstone Design Project in 2021 2nd Semester
 
 # Image Classification
 
+
 - Accuracy - 40%
 - 신규성 - 30%
     - 제공된 Baseline 외에 추가로 시도한 것들
